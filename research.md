@@ -1,3 +1,9 @@
+## Main Paper
+
+Attention Is All You Need  
+https://arxiv.org/abs/1706.03762
+
+
 ## Transformer & Attention
 
 http://jalammar.github.io/illustrated-transformer/
@@ -135,6 +141,11 @@ Attn: Illustrated Attention
 https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
 
 
+A review of BERT based models  
+https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58
+
+
+
 ## Fun
 
 GPT-2 Explorer  
@@ -183,3 +194,39 @@ https://www.youtube.com/watch?v=OYygPG4d9H0
 
 C5W3L08 Attention Model
 https://www.youtube.com/watch?v=quoGRI-1l0A
+
+
+## Newer Models
+
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context  
+https://arxiv.org/abs/1901.02860
+
+
+XLNet: Generalized Autoregressive Pretraining for Language Understanding  
+https://arxiv.org/abs/1906.08237
+
+
+Building the Transformer XL from Scratch  
+https://mlexplained.com/2019/07/04/building-the-transformer-xl-from-scratch/  
+https://github.com/keitakurita/Practical_NLP_in_PyTorch/blob/master/deep_dives/transformer_xl_from_scratch.ipynb
+
+
+## Code
+
+A library of state-of-the-art pretrained models for Natural Language Processing (NLP)  
+https://github.com/huggingface/pytorch-transformers  
+Docs: https://huggingface.co/pytorch-transformers/index.html
+
+
+https://github.com/OpenNMT/OpenNMT-py
+
+
+Sequence-to-Sequence learning using PyTorch  
+https://github.com/eladhoffer/seq2seq.pytorch
+
+
+Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
+https://github.com/pytorch/fairseq
+
+Google Brain: T2T  
+https://github.com/tensorflow/tensor2tensor
