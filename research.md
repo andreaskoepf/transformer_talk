@@ -87,6 +87,13 @@ Self attention layer added to ResNet architecture (practical insights)
 https://forums.fast.ai/t/how-we-beat-the-5-epoch-imagewoof-leaderboard-score-some-new-techniques-to-consider/53453  
 
 
+Präsentation: Sequence-to-Sequence mit neuronalen Netzen (Fynn Schröder)
+https://nats-www.informatik.uni-hamburg.de/pub/ProST18/WebHome/seq2seq.pdf
+
+
+PyTorch Tutorial: Translation with a Sequence to Sequence Network and Attention
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
 
 ### Interesting related Papers
 
@@ -111,3 +118,17 @@ https://arxiv.org/abs/1908.07644
 
 Training Optimus Prime, M.D.: Generating Medical Certification Items by Fine-Tuning OpenAI's gpt2 Transformer Model  
 https://arxiv.org/abs/1908.08594
+
+
+## Fun
+
+GPT-2 Explorer  
+https://gpt2.apps.allenai.org/
+
+
+Talk to Transformer  
+https://talktotransformer.com/
+
+
+Write With Transformer  
+https://transformer.huggingface.co/
