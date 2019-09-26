@@ -3,6 +3,9 @@
 http://jalammar.github.io/illustrated-transformer/
 
 
+https://jalammar.github.io/illustrated-gpt2/
+
+
 The fall of RNN / LSTM, Eugenio Culurciello, 2018  
 https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0  
 https://towardsdatascience.com/memory-attention-sequences-37456d271992  
@@ -29,7 +32,7 @@ The Annotated Transformer
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 
-Attention? Attention!  
+Lil'Log: Attention? Attention!  
 https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 
@@ -95,6 +98,10 @@ PyTorch Tutorial: Translation with a Sequence to Sequence Network and Attention
 https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 
+Nice network graph of Transformer parallel processing  
+http://jkk.name/post/2017-10-20_onlyattention/
+
+
 ### Interesting related Papers
 
 Energy and Policy Considerations for Deep Learning in NLP  
@@ -120,6 +127,14 @@ Training Optimus Prime, M.D.: Generating Medical Certification Items by Fine-Tun
 https://arxiv.org/abs/1908.08594
 
 
+How To Make Custom AI-Generated Text With GPT-2  
+https://minimaxir.com/2019/09/howto-gpt2/
+
+
+Attn: Illustrated Attention  
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+
 ## Fun
 
 GPT-2 Explorer  
@@ -132,3 +147,39 @@ https://talktotransformer.com/
 
 Write With Transformer  
 https://transformer.huggingface.co/
+
+
+## Other NLP
+
+Byte Pair Encoding  
+https://leimao.github.io/blog/Byte-Pair-Encoding/
+
+
+Importance of Decoding Algorithms  
+https://armenag.com/2019/05/16/importance-of-decoding-algorithms-in-neural-text-generation/
+
+
+Decoding Links by Thomas Wolf
+https://threader.app/thread/1124263846674345985
+
+
+## Talks
+
+Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention  
+https://www.youtube.com/watch?v=5vcj8kSwBCY
+
+
+Transformer (Attention is all you need)  
+https://www.youtube.com/watch?v=z1xs9jdZnuY
+
+
+Attention is all you need attentional neural network models – Łukasz Kaiser  
+https://www.youtube.com/watch?v=rBCqOTEfxvg
+
+
+Ivan Bilan: Understanding and Applying Self-Attention for NLP | PyData Berlin 2018  
+https://www.youtube.com/watch?v=OYygPG4d9H0
+
+
+C5W3L08 Attention Model
+https://www.youtube.com/watch?v=quoGRI-1l0A
